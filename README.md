@@ -17,3 +17,5 @@ You can find the solutions to these exercises in the [solutions branch](https://
 ## License & Copyright
 
 This material is Copyright (c) 2015 NodeSource and licensed under the MIT license. All rights not explicitly granted in the MIT license are reserved. See the included [LICENSE.md](./LICENSE.md) file for more details.
+
+Supporter: <a href="https://bestdroidplayer.com">bestdroidplayer</a>
